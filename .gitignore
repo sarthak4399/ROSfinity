@@ -1,0 +1,41 @@
+# ROS 2 specific ignores
+/build/
+/install/
+/log/
+/devel/
+/.vscode/
+/.ccls-cache/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# CMake build files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+
+# Build tools
+compile_commands.json
+ament_export*.*
+ament_index*.*
+
+# Logs and temp files
+*.log
+*.log.*
+*.db
+*.sqlite3
+*.yamlc
+*.jsonc
+
+# IDE specific files
+*.swp
+*.swo
+*.project
+*.pydevproject
+*.cproject
+*.settings/
+*.launch
+*.vscode/
+.vs/

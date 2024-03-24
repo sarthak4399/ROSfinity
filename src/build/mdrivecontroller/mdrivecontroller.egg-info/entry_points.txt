@@ -1,0 +1,3 @@
+[console_scripts]
+hello_node = mdrivcontroller.hello_node:main
+

@@ -1,0 +1,6 @@
+source;share/mdrivecontroller/hook/pythonpath.ps1
+source;share/mdrivecontroller/hook/pythonpath.dsv
+source;share/mdrivecontroller/hook/pythonpath.sh
+source;share/mdrivecontroller/hook/ament_prefix_path.ps1
+source;share/mdrivecontroller/hook/ament_prefix_path.dsv
+source;share/mdrivecontroller/hook/ament_prefix_path.sh
